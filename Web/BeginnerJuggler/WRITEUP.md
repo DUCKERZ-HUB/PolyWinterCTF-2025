@@ -32,7 +32,28 @@
 
 ![index.png](solve/index.png)
 
-В данном коде можно увидеть типовую уязвимость – php type juggling, завязанную на коллизии в md5. Необходимо написать небольшой код для подбора такой строки, хеш которой, начинается на 0e и состоит только из цифр. Также необходимую строку можно найти [тут](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Type%20Juggling/README.md)
+В данном коде можно увидеть типовую уязвимость – php type juggling, завязанную на коллизии в md5. Необходимо написать небольшой код для подбора такого ключа, хеш которого, начинается на 0e и состоит только из цифр. Однако, необходимый ключ можно найти [тут](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Type%20Juggling/README.md)
+
+Пример кода для подбора ключа:
+```
+import hashlib
+
+def find_md5_collision(prefix):
+    i = 0
+    while True:
+        candidate = f"{i}"
+        hashed = hashlib.md5(candidate.encode()).hexdigest()
+        
+        if hashed.startswith(prefix) and hashed[2:].isdigit():
+            return candidate, hashed
+        
+        i += 1
+
+if __name__ == "__main__":
+    prefix = "0e"
+    result = find_md5_collision(prefix)
+    print(f"Найдено строка: {result[0]}, Хеш: {result[1]}")
+```
 
 ## Флаг
 `PolyCTF{MD5_AnD_tyPE_jUG9L!n6_IN_PHP_@R3_7r!Cky}`
