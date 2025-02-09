@@ -13,7 +13,7 @@
 | [Mental flow](Cryptography)                                                       | Cryptography  | 500       | [@M0shp1t](https://t.me/M0shp1t)                                                          |
 | [Сверхсекретный Шпион](Forensics/DeepIpSpy/WRITEUP.md)                            | Forensics     | 150       | [@z4vr1k_official](https://t.me/z4vr1k_official)                                          |
 | [Офисный Хакер](Forensics/OfficeHacker/WRITEUP.md)                                | Forensics     | 250       | [@z4vr1k_official](https://t.me/z4vr1k_official)                                          |
-| [pixel=y](Forensics)                                                              | Forensics     | 400       | [@eternity3164](https://t.me/eternity3164)                                                |
+| [pixel=y](Forensics/pixel=y/WRITEUP.md)                                           | Forensics     | 400       | [@eternity3164](https://t.me/eternity3164)                                                |
 | [Oleg](Forensics)                                                                 | Forensics     | 500       | [@pigadoor](https://t.me/pigadoor)                                                        |
 | [Приветствие](Misc)                                                               | Misc          | 50        | [@z4vr1k_official](https://t.me/z4vr1k_official)                                          |
 | [ZipBomb](Misc/ZipBomb/WRITEUP.md)                                                | Misc          | 100       | [@z4vr1k_official](https://t.me/z4vr1k_official)                                          |
