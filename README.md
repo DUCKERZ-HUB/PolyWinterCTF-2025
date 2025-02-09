@@ -15,9 +15,9 @@
 |[Офисный Хакер](Forensics/OfficeHacker/WRITEUP.md)|Forensics|250|[@z4vr1k_official](https://t.me/z4vr1k_official)|
 |[pixel=y](Forensics)|Forensics|400|[@eternity3164](https://t.me/eternity3164)|
 |[Oleg](Forensics)|Forensics|500|[@pigadoor](https://t.me/pigadoor)|
+|[Приветствие](Misc)|Misc|50|[@z4vr1k_official](https://t.me/z4vr1k_official)|
 |[ZipBomb](Misc/ZipBomb/WRITEUP.md)|Misc|100|[@z4vr1k_official](https://t.me/z4vr1k_official)|
 |[Zuma](Misc)|Misc|150|[@pigadoor](https://t.me/pigadoor)|
-|[Приветствие](Misc)|Misc|50|[@z4vr1k_official](https://t.me/z4vr1k_official)|
 |[Хлебные крошки](OSINT)|OSINT|150|[@mixinspace](https://t.me/MixInSpace)|
 |[Следы предательства Часть 1](OSINT)|OSINT|200|[@mixinspace](https://t.me/MixInSpace)|
 |[Следы предательства Часть 2](OSINT)|OSINT|350|[@mixinspace](https://t.me/MixInSpace)|
@@ -39,7 +39,6 @@
 |[Начинающий жонглер](Web/BeginnerJuggler/WRITEUP.md)|Web|150|[@qookieFaitPipi](https://t.me/myqookie)|
 |[Go-пореверсим](Web)|Web|250|[@qookieFaitPipi](https://t.me/myqookie) [@z4vr1k_official](https://t.me/z4vr1k_official)|
 |[Конкурс заметок](Web)|Web|300|[@mixinspace](https://t.me/MixInSpace)|
-
 
 ## Организаторы
 
