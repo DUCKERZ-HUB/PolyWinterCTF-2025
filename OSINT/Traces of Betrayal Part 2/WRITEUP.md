@@ -45,7 +45,7 @@ kksuomi1985@gmail.com
 
 Пробив эту почту через GHunt или [узнав google id вручную](https://www.securitylab.ru/blog/company/CABIS/348481.php) можно получить его профиль в гугл картах, где будут написаны имя, фамилия и ник.
 
-![[solve/gmaps.png]]
+![gmaps.png](solve/gmaps.png)
 
 По нику можно найти [лорный tumblr ](https://kaapokyyr.tumblr.com/) а по имени и фамилии в тг канале из первой части задания в базе данных компании N найти корпоративную почту.
  

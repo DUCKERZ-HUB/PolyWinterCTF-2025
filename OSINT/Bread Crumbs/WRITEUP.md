@@ -16,13 +16,13 @@
 
 На википедии или ином ресурсе находим информацию про исследователей зажимов для хлеба
 
-![[solve/wiki.png]]
+![wiki.png](solve/wiki.png)
 
 Перейдя на сайт [horg.com]() обнаруживаем что каждый "вид" зажима имеет свой вид и название.
 
 Найдя наиболее похожий, определяем что ответ  'Palpatophora glyphodorsalis'
 
-![[solve/horg.png]]
+![hotg.png](solve/horg.png)
 
 ## Флаг
 `PolyCTF{Palpatophora_glyphodorsalis}`

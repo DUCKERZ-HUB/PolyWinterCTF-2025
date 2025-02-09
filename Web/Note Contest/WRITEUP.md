@@ -44,7 +44,7 @@ public ResponseEntity<String> createNote(@RequestBody Map<String, String> noteRe
 
 Пример реализации эксплоита есть в `./solve` [(взят из чата в канале PolyCTF)](https://t.me/c/1996175205/1914)
 
-![[flag.jpg]]
+![flag.jpg](solve/flag.jpg)
 
 ## Флаг
 `PolyCTF{R4nd0m_1s_n0t_S3cUr3_1n_J4vA}`
