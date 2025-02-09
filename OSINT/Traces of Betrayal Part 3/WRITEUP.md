@@ -30,7 +30,9 @@
 Пролинзив картинку, увидим много ссылок на Kata Phuket с похожей архитектурой. Очень похожим по внешнему виду будет 
 `Assada Boutique Hotel Kata Phuket`
 Перейдя на его расположение в гугл картах и пройдясь по улице на которой он расположен, найдем искомое место: [Тык.](https://www.google.com/maps/@7.8171266,98.3084143,3a,75y,257.88h,94.08t/data=!3m7!1e1!3m5!1spVUdFeUhSdmZGr2vmxd2qA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-4.084413429478175%26panoid%3DpVUdFeUhSdmZGr2vmxd2qA%26yaw%3D257.88053789252274!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwNS4xIKXMDSoASAFQAw%3D%3D)
+
 ![dcim1.png](solve/dcim1.png)
+
 Координаты: `7.817_98.308`
 # Фото 2. Предыдущее место проживания
 Оно выглядит вот так:
