@@ -3,7 +3,7 @@
 ## Информация
 > Почему это так жизненно
 
-## Выдать участинкам
+## Выдать участникам
 файл [funny_mem_scary_situation.zip](public/funny_mem_scary_situation.zip)
 
 ## Описание
