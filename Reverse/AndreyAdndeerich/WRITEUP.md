@@ -1,3 +1,15 @@
+# Андрей Андреевич | hard | Reverse
+
+## Информация
+Помоги мне правильно ответить на запрос... (P.S. Для решения также понадобиться работать с: nc tasks.polyctf.ru 30009)
+
+## Выдать участникам
+[folder](public/)
+
+## Описание
+Необходимо разреверсить бинарь и понять способ модификации строки.
+
+## Решение.
 При открытии MainActivity видно, что вызывается нативная функция processInput.
 ![[Pasted image 20250209163451.png]]
 
@@ -265,3 +277,6 @@ Java_com_example_app_1hard_MainActivity_processInput(JNIEnv *env, jobject thiz, 
     return env->NewStringUTF(df.c_str());  
 }
 ```
+
+## Флаг
+`PolyCTF{1_L1k3_TCP}`
