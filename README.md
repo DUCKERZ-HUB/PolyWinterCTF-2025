@@ -15,7 +15,7 @@
 | [Офисный Хакер](Forensics/OfficeHacker/WRITEUP.md)                                | Forensics     | 250       | [@z4vr1k_official](https://t.me/z4vr1k_official)                                          |
 | [pixel=y](Forensics/pixel=y/WRITEUP.md)                                           | Forensics     | 400       | [@eternity3164](https://t.me/eternity3164)                                                |
 | [Oleg](Forensics/Oleg/WRITEUP.md)                                                                 | Forensics     | 500       | [@pigadoor](https://t.me/pigadoor)                                                        |
-| [Приветствие](Misc)                                                               | Misc          | 50        | [@z4vr1k_official](https://t.me/z4vr1k_official)                                          |
+| Приветствие                                                               | Misc          | 50        | [@z4vr1k_official](https://t.me/z4vr1k_official)                                          |
 | [ZipBomb](Misc/ZipBomb/WRITEUP.md)                                                | Misc          | 100       | [@z4vr1k_official](https://t.me/z4vr1k_official)                                          |
 | [Zuma](Misc/Zuma/WRITEUP.md)                                                                      | Misc          | 150       | [@pigadoor](https://t.me/pigadoor)                                                        |
 | [Хлебные крошки](OSINT/Bread%20Crumbs/WRITEUP.md)                                 | OSINT         | 150       | [@mixinspace](https://t.me/MixInSpace)                                                    |
