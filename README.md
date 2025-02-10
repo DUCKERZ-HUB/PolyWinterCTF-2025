@@ -23,7 +23,7 @@
 | [Следы предательства Часть 2](OSINT/Traces%20of%20Betrayal%20Part%202/WRITEUP.md) | OSINT         | 350       | [@mixinspace](https://t.me/MixInSpace)                                                    |
 | [Загадочный лимон](OSINT/Mysterious%20Lemon/WRITEUP.md)                           | OSINT         | 400       | [@mixinspace](https://t.me/MixInSpace)                                                    |
 | [Следы предательства Часть 3](OSINT/Traces%20of%20Betrayal%20Part%203/WRITEUP.md) | OSINT         | 500       | [@mixinspace](https://t.me/MixInSpace)                                                    |
-| [Предстоящий полет](PWN/upcoming_flight/WRITEUP.MD)                                                          | PWN           | 150       | [@Ogurez](https://t.me/Black_jonga)                                                       |
+| [Предстоящий полет](PWN/upcoming_flight/WRITEUP.md)                                                          | PWN           | 150       | [@Ogurez](https://t.me/Black_jonga)                                                       |
 | [В отеле](PWN/hotel/WRITEUP.md)                                                                    | PWN           | 300       | [@Ogurez](https://t.me/Black_jonga)                                                       |
 | [Люкс](PWN/luxury/WRITEUP.md)                                                                       | PWN           | 300       | [@Ogurez](https://t.me/Black_jonga)                                                       |
 | [Матрёшка](Reverse/Матрёшка/WRITEUP.md)                                                               | Reverse       | 100       | [@crowdyara](https://t.me/crowdyara)                                                      |
